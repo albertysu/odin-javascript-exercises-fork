@@ -1,5 +1,5 @@
-const palindromes = function () {
-
+const palindromes = function (word) {
+    return false;
 };
 
 // Do not edit below this line
